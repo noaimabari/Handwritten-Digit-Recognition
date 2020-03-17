@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 
-This was my first project on Kaggle. I used dataset containing images of handwritten digits which was available on kaggle.
-I used 2 dimensional convolution layers and max pooling layers to pre process the images in order to find the features to work upon 
-and then flattened and passed the data into the dense layers for classification.
-This model can achieve an accuracy of 98.5% in just 5 epochs.
+This project is used to identify handwritten digits. 
+I have used a dataset of images of handwritten digits, available on kaggle, to train my model.
+In the model, I have used 2 dimensional CNN layers and max pooling layers to pre process the images in order to find the features to work upon and then flattened and passed the data into the dense layers for classification.
+This model can achieve an accuracy of more than 98.5% on the validation data in just 5 epochs.
